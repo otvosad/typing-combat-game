@@ -17,7 +17,7 @@ game_id = str(uuid.uuid4())
 player = Player()
 
 # Main game loop
-while player.health > 0
+while player.health > 0:
     # Choose a random enemy
     current_enemy = random.choice(enemies)
 
