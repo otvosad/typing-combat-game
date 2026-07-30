@@ -1,0 +1,20 @@
+DATA COLLECTION NOTICE
+
+This game records anonymous gameplay data for an educational
+data-analysis portfolio project.
+
+Recorded information may include:
+- randomly generated game identifier
+- enemy name and word length
+- text entered during each attempt
+- accuracy
+- time taken
+- success or failure
+- player health
+- encounter and attempt numbers
+
+The game is not intended to collect names, email addresses, locations,
+or other personal information.
+
+By continuing to play, you agree that anonymous gameplay records may
+be stored and analysed for this project.
